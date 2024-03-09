@@ -16,6 +16,6 @@ class Program {
     }
 
     public static void main(String[] args) {
-        System.out.println(caesarCypherEncryptor("abc", 5));
+        System.out.println(caesarCypherEncryptor("z", 3));
     }
 }
