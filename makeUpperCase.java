@@ -1,6 +1,3 @@
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class makeUpperCase {
     public static String toUpperCaseN(String input) {
         String[] inputArray = input.split(" ");
